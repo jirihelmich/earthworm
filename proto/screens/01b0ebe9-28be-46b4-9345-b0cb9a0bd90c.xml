@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<screen>
+  <parentCode />
+  <folderPosition>1</folderPosition>
+  <name>Question</name>
+  <code>01b0ebe9-28be-46b4-9345-b0cb9a0bd90c</code>
+  <templateID>f39803f7-df02-4169-93eb-7547fb8c961a</templateID>
+  <date>12/02/2016 09:46:05</date>
+  <note></note>
+  <legend-item></legend-item>
+  <pageAlignment>CENTER</pageAlignment>
+  <orientation>PORTRAIT</orientation>
+  <backgroundGrowth>BOTH</backgroundGrowth>
+  <width>1024</width>
+  <height>768</height>
+  <item-group id="c16be8e9-b08d-4db3-bf53-0d177ea133ed" visible="true">
+    <label id="774bfbec-7929-45f1-a514-58a37a818484" singleLine="true" hidden="false" lockType="bothsizes" onTop="false" visible="true">
+      <text>Ask a question</text>
+      <style name="LnFTextBox">
+        <DimensionStyle width="178" height="35" autofit="true" />
+        <PositioningStyle left="404" top="38" />
+        <BackgroundStyle type="transparent" />
+        <BorderStyle radius="0" leftColor="0r0g0b" topColor="0r0g0b" rightColor="0r0g0b" bottomColor="0r0g0b" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" />
+        <TextStyle color="51r51g51b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+        <FontStyle size="20.0" height="35">
+          <family>Roboto</family>
+          <style name="Regular" weight="400" italic="normal" />
+          <evc-file>Roboto-Regular</evc-file>
+        </FontStyle>
+        <TransparencyStyle value="0" />
+        <PaddingStyle top="0" left="0" bottom="0" right="0" />
+        <RotationStyle angle="0" />
+        <ShadowStyle>
+          <Box enable="false" />
+          <Text enable="false" />
+        </ShadowStyle>
+      </style>
+      <rich-text-range-list>
+        <text-range text-range-start="0" text-range-end="14">
+          <style name="LnFTextRange">
+            <FontStyle size="20.0" height="35">
+              <family>Roboto</family>
+              <style name="Regular" weight="400" italic="normal" />
+              <evc-file>Roboto-Regular</evc-file>
+            </FontStyle>
+            <TextStyle color="51r51g51b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+          </style>
+        </text-range>
+      </rich-text-range-list>
+      <userID>Text_1</userID>
+    </label>
+    <label id="887b0e11-482c-43c2-8a69-497967c7c7cb" singleLine="true" hidden="false" lockType="bothsizes" onTop="false" visible="true">
+      <text>Topic</text>
+      <style name="LnFTextBox">
+        <DimensionStyle width="34" height="18" autofit="true" />
+        <PositioningStyle left="57" top="95" />
+        <BackgroundStyle type="transparent" />
+        <BorderStyle radius="0" leftColor="0r0g0b" topColor="0r0g0b" rightColor="0r0g0b" bottomColor="0r0g0b" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" />
+        <TextStyle color="51r51g51b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+        <FontStyle size="10.0" height="18">
+          <family>Roboto</family>
+          <style name="Regular" weight="400" italic="normal" />
+          <evc-file>Roboto-Regular</evc-file>
+        </FontStyle>
+        <TransparencyStyle value="0" />
+        <PaddingStyle top="0" left="0" bottom="0" right="0" />
+        <RotationStyle angle="0" />
+        <ShadowStyle>
+          <Box enable="false" />
+          <Text enable="false" />
+        </ShadowStyle>
+      </style>
+      <rich-text-range-list>
+        <text-range text-range-start="0" text-range-end="5">
+          <style name="LnFTextRange">
+            <FontStyle size="10.0" height="18">
+              <family>Roboto</family>
+              <style name="Regular" weight="400" italic="normal" />
+              <evc-file>Roboto-Regular</evc-file>
+            </FontStyle>
+            <TextStyle color="51r51g51b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+          </style>
+        </text-range>
+      </rich-text-range-list>
+      <userID>Text_2</userID>
+    </label>
+    <attribute-form id="ac163eed-96a6-4d97-86ef-f26e80c3e9a0" writable="true" hidden="false" lockType="none" onTop="false" visible="true">
+      <attStyle>InputText</attStyle>
+      <type>text</type>
+      <style name="LnFAttributeForm">
+        <DimensionStyle width="575" height="29" />
+        <PositioningStyle left="205" top="95" />
+        <BackgroundStyle type="color" value="255r255g255b" />
+        <BorderStyle radius="0" leftColor="200r200g200b" topColor="200r200g200b" rightColor="200r200g200b" bottomColor="200r200g200b" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" />
+        <TextStyle color="0r0g0b" hAlign="left" vAlign="center" decoration="none" line-height="17" />
+        <FontStyle size="10.0" height="18">
+          <family>Roboto</family>
+          <style name="Regular" weight="400" italic="normal" />
+          <evc-file>Roboto-Regular</evc-file>
+        </FontStyle>
+        <TransparencyStyle value="0" />
+        <PaddingStyle top="0" left="0" bottom="0" right="0" />
+        <ShadowStyle>
+          <Box enable="false" />
+          <Text enable="false" />
+        </ShadowStyle>
+      </style>
+      <defaultValue></defaultValue>
+      <userID>Input_1</userID>
+    </attribute-form>
+    <label id="fbee8aea-6458-4ca0-900d-16122715232f" singleLine="true" hidden="false" lockType="bothsizes" onTop="false" visible="true">
+      <text>Question details</text>
+      <style name="LnFTextBox">
+        <DimensionStyle width="98" height="18" autofit="true" />
+        <PositioningStyle left="57" top="133" />
+        <BackgroundStyle type="transparent" />
+        <BorderStyle radius="0" leftColor="0r0g0b" topColor="0r0g0b" rightColor="0r0g0b" bottomColor="0r0g0b" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" />
+        <TextStyle color="51r51g51b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+        <FontStyle size="10.0" height="18">
+          <family>Roboto</family>
+          <style name="Regular" weight="400" italic="normal" />
+          <evc-file>Roboto-Regular</evc-file>
+        </FontStyle>
+        <TransparencyStyle value="0" />
+        <PaddingStyle top="0" left="0" bottom="0" right="0" />
+        <RotationStyle angle="0" />
+        <ShadowStyle>
+          <Box enable="false" />
+          <Text enable="false" />
+        </ShadowStyle>
+      </style>
+      <rich-text-range-list>
+        <text-range text-range-start="0" text-range-end="16">
+          <style name="LnFTextRange">
+            <FontStyle size="10.0" height="18">
+              <family>Roboto</family>
+              <style name="Regular" weight="400" italic="normal" />
+              <evc-file>Roboto-Regular</evc-file>
+            </FontStyle>
+            <TextStyle color="51r51g51b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+          </style>
+        </text-range>
+      </rich-text-range-list>
+      <userID>Text_3</userID>
+    </label>
+    <attribute-form id="dc8cae8c-48e4-47be-8df8-f45b571b666d" writable="true" hidden="false" lockType="none" onTop="false" visible="true">
+      <attStyle>InputText</attStyle>
+      <type>text</type>
+      <style name="LnFAttributeForm">
+        <DimensionStyle width="575" height="210" />
+        <PositioningStyle left="205" top="133" />
+        <BackgroundStyle type="color" value="255r255g255b" />
+        <BorderStyle radius="0" leftColor="200r200g200b" topColor="200r200g200b" rightColor="200r200g200b" bottomColor="200r200g200b" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" />
+        <TextStyle color="0r0g0b" hAlign="left" vAlign="center" decoration="none" line-height="17" />
+        <FontStyle size="10.0" height="18">
+          <family>Roboto</family>
+          <style name="Regular" weight="400" italic="normal" />
+          <evc-file>Roboto-Regular</evc-file>
+        </FontStyle>
+        <TransparencyStyle value="0" />
+        <PaddingStyle top="0" left="0" bottom="0" right="0" />
+        <ShadowStyle>
+          <Box enable="false" />
+          <Text enable="false" />
+        </ShadowStyle>
+      </style>
+      <defaultValue></defaultValue>
+      <userID>Input_2</userID>
+    </attribute-form>
+    <label id="6328606b-ef23-49a5-8b86-30fb9b973728" singleLine="true" hidden="false" lockType="bothsizes" onTop="false" visible="true">
+      <text>Desk case #</text>
+      <style name="LnFTextBox">
+        <DimensionStyle width="72" height="18" autofit="true" />
+        <PositioningStyle left="57" top="361" />
+        <BackgroundStyle type="transparent" />
+        <BorderStyle radius="0" leftColor="0r0g0b" topColor="0r0g0b" rightColor="0r0g0b" bottomColor="0r0g0b" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" />
+        <TextStyle color="51r51g51b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+        <FontStyle size="10.0" height="18">
+          <family>Roboto</family>
+          <style name="Regular" weight="400" italic="normal" />
+          <evc-file>Roboto-Regular</evc-file>
+        </FontStyle>
+        <TransparencyStyle value="0" />
+        <PaddingStyle top="0" left="0" bottom="0" right="0" />
+        <RotationStyle angle="0" />
+        <ShadowStyle>
+          <Box enable="false" />
+          <Text enable="false" />
+        </ShadowStyle>
+      </style>
+      <rich-text-range-list>
+        <text-range text-range-start="0" text-range-end="11">
+          <style name="LnFTextRange">
+            <FontStyle size="10.0" height="18">
+              <family>Roboto</family>
+              <style name="Regular" weight="400" italic="normal" />
+              <evc-file>Roboto-Regular</evc-file>
+            </FontStyle>
+            <TextStyle color="51r51g51b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+          </style>
+        </text-range>
+      </rich-text-range-list>
+      <userID>Text_4</userID>
+    </label>
+    <attribute-form id="60dd7fa7-d93f-4baa-aa93-a0ebf7464823" writable="true" hidden="false" lockType="none" onTop="false" visible="true">
+      <attStyle>InputText</attStyle>
+      <type>text</type>
+      <style name="LnFAttributeForm">
+        <DimensionStyle width="575" height="29" />
+        <PositioningStyle left="205" top="361" />
+        <BackgroundStyle type="color" value="255r255g255b" />
+        <BorderStyle radius="0" leftColor="200r200g200b" topColor="200r200g200b" rightColor="200r200g200b" bottomColor="200r200g200b" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" />
+        <TextStyle color="0r0g0b" hAlign="left" vAlign="center" decoration="none" line-height="17" />
+        <FontStyle size="10.0" height="18">
+          <family>Roboto</family>
+          <style name="Regular" weight="400" italic="normal" />
+          <evc-file>Roboto-Regular</evc-file>
+        </FontStyle>
+        <TransparencyStyle value="0" />
+        <PaddingStyle top="0" left="0" bottom="0" right="0" />
+        <ShadowStyle>
+          <Box enable="false" />
+          <Text enable="false" />
+        </ShadowStyle>
+      </style>
+      <defaultValue></defaultValue>
+      <userID>Input_3</userID>
+    </attribute-form>
+    <label id="d2e9eaa1-fb4e-4ba0-b904-ac0c9211b02e" singleLine="true" hidden="false" lockType="bothsizes" onTop="false" visible="true">
+      <text>On belhalf of</text>
+      <style name="LnFTextBox">
+        <DimensionStyle width="77" height="18" autofit="true" />
+        <PositioningStyle left="57" top="399" />
+        <BackgroundStyle type="transparent" />
+        <BorderStyle radius="0" leftColor="0r0g0b" topColor="0r0g0b" rightColor="0r0g0b" bottomColor="0r0g0b" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" />
+        <TextStyle color="51r51g51b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+        <FontStyle size="10.0" height="18">
+          <family>Roboto</family>
+          <style name="Regular" weight="400" italic="normal" />
+          <evc-file>Roboto-Regular</evc-file>
+        </FontStyle>
+        <TransparencyStyle value="0" />
+        <PaddingStyle top="0" left="0" bottom="0" right="0" />
+        <RotationStyle angle="0" />
+        <ShadowStyle>
+          <Box enable="false" />
+          <Text enable="false" />
+        </ShadowStyle>
+      </style>
+      <rich-text-range-list>
+        <text-range text-range-start="0" text-range-end="13">
+          <style name="LnFTextRange">
+            <FontStyle size="10.0" height="18">
+              <family>Roboto</family>
+              <style name="Regular" weight="400" italic="normal" />
+              <evc-file>Roboto-Regular</evc-file>
+            </FontStyle>
+            <TextStyle color="51r51g51b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+          </style>
+        </text-range>
+      </rich-text-range-list>
+      <userID>Text_5</userID>
+    </label>
+    <attribute-form id="e3875ee2-789e-4d65-b14b-7a6addb4d096" writable="true" hidden="false" lockType="none" onTop="false" visible="true">
+      <attStyle>InputText</attStyle>
+      <type>text</type>
+      <style name="LnFAttributeForm">
+        <DimensionStyle width="575" height="29" />
+        <PositioningStyle left="205" top="399" />
+        <BackgroundStyle type="color" value="255r255g255b" />
+        <BorderStyle radius="0" leftColor="200r200g200b" topColor="200r200g200b" rightColor="200r200g200b" bottomColor="200r200g200b" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" />
+        <TextStyle color="0r0g0b" hAlign="left" vAlign="center" decoration="none" line-height="17" />
+        <FontStyle size="10.0" height="18">
+          <family>Roboto</family>
+          <style name="Regular" weight="400" italic="normal" />
+          <evc-file>Roboto-Regular</evc-file>
+        </FontStyle>
+        <TransparencyStyle value="0" />
+        <PaddingStyle top="0" left="0" bottom="0" right="0" />
+        <ShadowStyle>
+          <Box enable="false" />
+          <Text enable="false" />
+        </ShadowStyle>
+      </style>
+      <defaultValue></defaultValue>
+      <userID>Input_4</userID>
+    </attribute-form>
+    <button id="11c4c818-bd06-4b05-bcbd-50eec504fec6" singleLine="true" hidden="false" lockType="none" onTop="false" visible="true">
+      <text>Generate Markdown</text>
+      <style name="LnFButton">
+        <DimensionStyle width="134" height="29" />
+        <PositioningStyle left="646" top="437" />
+        <BackgroundStyle type="gradient">
+          <gradient firstColor="255r255g255b" secondColor="230r230g230b" orientation="vertical" double="false" />
+        </BackgroundStyle>
+        <BorderStyle radius="30" leftColor="205r205g205b" topColor="205r205g205b" rightColor="205r205g205b" bottomColor="205r205g205b" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" />
+        <TextStyle color="3r3g3b" hAlign="center" vAlign="center" decoration="none" line-height="0" />
+        <FontStyle size="10.0" height="18">
+          <family>Roboto</family>
+          <style name="Regular" weight="400" italic="normal" />
+          <evc-file>Roboto-Regular</evc-file>
+        </FontStyle>
+        <TransparencyStyle value="0" />
+        <PaddingStyle top="0" left="0" bottom="0" right="0" />
+        <RotationStyle angle="0" />
+        <ShadowStyle>
+          <Box enable="false" />
+          <Text enable="false" />
+        </ShadowStyle>
+      </style>
+      <rich-text-range-list>
+        <text-range text-range-start="0" text-range-end="17">
+          <style name="LnFTextRange">
+            <FontStyle size="10.0" height="18">
+              <family>Roboto</family>
+              <style name="Regular" weight="400" italic="normal" />
+              <evc-file>Roboto-Regular</evc-file>
+            </FontStyle>
+            <TextStyle color="3r3g3b" hAlign="center" vAlign="center" decoration="none" line-height="0" />
+          </style>
+        </text-range>
+      </rich-text-range-list>
+      <userID>Button_1</userID>
+    </button>
+    <button id="6816944a-7c42-45cf-b99d-5140427e60aa" singleLine="true" hidden="false" lockType="none" onTop="false" visible="true">
+      <text>Back</text>
+      <style name="LnFButton">
+        <DimensionStyle width="68" height="29" />
+        <PositioningStyle left="205" top="437" />
+        <BackgroundStyle type="gradient">
+          <gradient firstColor="255r255g255b" secondColor="230r230g230b" orientation="vertical" double="false" />
+        </BackgroundStyle>
+        <BorderStyle radius="30" leftColor="205r205g205b" topColor="205r205g205b" rightColor="205r205g205b" bottomColor="205r205g205b" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" />
+        <TextStyle color="3r3g3b" hAlign="center" vAlign="center" decoration="none" line-height="0" />
+        <FontStyle size="10.0" height="18">
+          <family>Roboto</family>
+          <style name="Regular" weight="400" italic="normal" />
+          <evc-file>Roboto-Regular</evc-file>
+        </FontStyle>
+        <TransparencyStyle value="0" />
+        <PaddingStyle top="0" left="0" bottom="0" right="0" />
+        <RotationStyle angle="0" />
+        <ShadowStyle>
+          <Box enable="false" />
+          <Text enable="false" />
+        </ShadowStyle>
+      </style>
+      <rich-text-range-list>
+        <text-range text-range-start="0" text-range-end="4">
+          <style name="LnFTextRange">
+            <FontStyle size="10.0" height="18">
+              <family>Roboto</family>
+              <style name="Regular" weight="400" italic="normal" />
+              <evc-file>Roboto-Regular</evc-file>
+            </FontStyle>
+            <TextStyle color="3r3g3b" hAlign="center" vAlign="center" decoration="none" line-height="0" />
+          </style>
+        </text-range>
+      </rich-text-range-list>
+      <userID>Button_2</userID>
+    </button>
+    <style name="LnFCanvas">
+      <DimensionStyle width="780" height="466" />
+      <PositioningStyle left="0" top="0" />
+      <BackgroundStyle type="transparent" />
+      <TransparencyStyle value="0" />
+    </style>
+  </item-group>
+  <Events>
+    <event id="6816944a-7c42-45cf-b99d-5140427e60aa" trigger="onClick">
+      <case execType="serial" delayAction="0">
+        <description>Interaction name</description>
+        <block>
+          <navigateLink execType="serial" delayAction="0">
+            <screen id="d12245cc-1680-458d-89dd-4f0d7fb22724">Screen 1</screen>
+            <type>window</type>
+          </navigateLink>
+        </block>
+      </case>
+    </event>
+  </Events>
+</screen>
+
